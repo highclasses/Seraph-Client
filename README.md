@@ -139,6 +139,8 @@ you change that yourself. Most servers don't allow them, so only use them where 
 - **Downloads fail or time out:** press **Play** again; Seraph retries interrupted game-file downloads and checks saved
   files. If it still fails, turn off any VPN, allow Seraph through your firewall or antivirus, or try another network.
   Press **Show game log** in the launcher and send the log to whoever helps you.
+- **Java won't start:** on Windows, check Windows Security's Protection history for a quarantined Minecraft Java runtime.
+  In the launcher, press **Play** again after resolving it.
 - **Asked to sign in again:** that's normal if your saved login can't be read. Just sign in again.
 - **The game crashed:** the launcher tells you why and which mod caused it. Press **Copy log** to share the details.
 
