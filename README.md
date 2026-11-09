@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 Install in a minute
+## Install in a minute
 
 1. Download the launcher for your computer from the [latest release](../../releases/latest).
 2. On Windows, run **`Seraph-Client-Setup-x.y.z.exe`**. Windows may show a blue *"Windows protected your PC"* screen
@@ -40,7 +40,7 @@ the client keep themselves up to date.
 
 ---
 
-## 🖥️ The launcher
+## The launcher
 
 <p align="center">
   <img src="images/launcher-home.png" alt="Seraph launcher" width="49%">
@@ -60,7 +60,7 @@ the client keep themselves up to date.
 
 ---
 
-## 🎮 The client
+## The client
 
 <p align="center">
   <img src="images/game-title.png" alt="Seraph main menu" width="100%">
@@ -74,13 +74,13 @@ save different setups as **profiles**.
   <img src="images/game-themes.png" alt="Theme library" width="49%">
 </p>
 
-### 📊 HUD
+### HUD
 Drag every element wherever you want it, resize it and restyle it.
 
 **FPS** · **Ping** · **Coordinates** (with direction and biome) · **Compass** · **Potion Effects** · **Session Timer** ·
 **Scoreboard** (move, resize, hide the red numbers) · **Boss Bar** (move, resize, hide) · **Status Bars** (saturation, heart and armor colors)
 
-### ⚔️ PvP
+### PvP
 | Feature | What it does |
 |---|---|
 | **Keystrokes** and **CPS** | The keys and mouse buttons you press, and your clicks per second. |
@@ -95,13 +95,13 @@ Drag every element wherever you want it, resize it and restyle it.
 | **Low Durability Warning** | A sound and flash before your armor or weapon breaks. |
 | **Team View** | Share position, health and gear with your team, and ping spots for them. |
 
-### 🎨 Visual
+### Visual
 **Zoom** (hold C) · **Freelook** (hold Left Alt) · **Crosshair** (15 styles) · **Block Outline** · **Hit Color** ·
 **Hit Effects** · **Kill Effects** (lightning, fireworks and more) · **Item Physics** · **Low Fire** · **Fullbright** ·
 **Fog & Visibility** (blue powder snow, so traps are easy to spot) · **Sky & Weather** · **Particle Tweaks** ·
 **Title Tweaks** · **F5 Tweaks** · **Item Size** · **X-Ray** (pick the blocks you want to see)
 
-### 🎒 Inventory
+### Inventory
 | Feature | What it does |
 |---|---|
 | **Chest search** | A search box greys out everything that doesn't match, even what's inside shulker boxes. |
@@ -110,23 +110,23 @@ Drag every element wherever you want it, resize it and restyle it.
 | **Shulker Preview** | Shift-hover a shulker box to see what's inside. |
 | **Dark Inventory** and **Inventory Style** | Dark, see-through and restyled inventory screens. |
 
-### 🧭 Quality of life
+### Quality of life
 **Waypoints** (B to add, M for the list) · **Alerts** (low health, someone says your name, where you died) ·
 **Chat Tweaks** (timestamps, stacked repeats, longer history) · **Macros** (accept teleport requests from your team) ·
 **Texture Library** (pick any item's texture from popular Modrinth packs, one item at a time) · **Discord Rich Presence**
 
-### 🍩 DonutSMP tools
+### DonutSMP tools
 **AH Price Check** · **Selling Price Helper** · **Deal Finder** · **Inventory & Shulker Value** · **Sales Tracker** ·
 **Auto Auction** (DonutSMP doesn't allow macros, so use it at your own risk)
 
-### 🧪 Singleplayer tools
+### Singleplayer tools
 For practice worlds and testing, not for servers. They're **off by default** and **work in singleplayer only** unless
 you change that yourself. Most servers don't allow them, so only use them where they're allowed.
 
 **Pearl Trajectories** (where your pearl will land) · **Player ESP** · **Tracers** · **Auto Armor** · **Auto Tool** ·
 **Auto Totem** · **Always Crit** · **No Fall** · **Freecam**
 
-### 🖌️ Make it yours
+### Make it yours
 - **12 themes** (Seraph, Galaxy, Arctic, Midnight, Pitch Black, Aurora, Sakura, Ember, Ocean, Forest, Gold and more), or
   pick your own colors.
 - **Profiles** to switch between setups, for example one for PvP and one for building.
