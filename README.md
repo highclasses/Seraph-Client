@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/minecraft-1.21.11-2fd36b?style=for-the-badge" alt="Minecraft 1.21.11">
   <img src="https://img.shields.io/badge/fabric-loader-dbd0b4?style=for-the-badge" alt="Fabric">
   <img src="https://img.shields.io/badge/windows-10%20%7C%2011-0078d6?style=for-the-badge" alt="Windows 10 and 11">
+  <img src="https://img.shields.io/badge/macOS-13%2B-555555?style=for-the-badge" alt="macOS 13 or later">
   <a href="../../releases"><img src="https://img.shields.io/github/downloads/highclasses/Seraph-Client/total?style=for-the-badge&color=8c74f5" alt="Downloads"></a>
 </p>
 
@@ -23,15 +24,18 @@
 
 ## 🚀 Install in a minute
 
-1. Download **`Seraph-Client-Setup-x.y.z.exe`** from the [latest release](../../releases/latest).
-2. Run it. Windows may show a blue *"Windows protected your PC"* screen because the installer isn't code-signed:
-   choose **More info**, then **Run anyway**.
-3. Open **Seraph**, sign in with Microsoft (you get a short code to enter at microsoft.com/link) and press **Play**.
+1. Download the launcher for your computer from the [latest release](../../releases/latest).
+2. On Windows, run **`Seraph-Client-Setup-x.y.z.exe`**. Windows may show a blue *"Windows protected your PC"* screen
+   because the installer isn't code-signed: choose **More info**, then **Run anyway**.
+3. On macOS 13 or later, open **`Seraph-Client-macOS-x.y.z-universal.dmg`** and drag Seraph to Applications. The app is
+   unsigned; Control-click Seraph in Applications, choose **Open**, and confirm on first launch. Download a new DMG
+   manually when an update is released.
+4. Open **Seraph**, sign in with Microsoft (you get a short code to enter at microsoft.com/link) and press **Play**.
 
 The first launch downloads Minecraft, Java, Fabric, Sodium and Iris for you (about 700 MB). After that the launcher and
 the client keep themselves up to date.
 
-> **You need:** Windows 10 or 11, a Minecraft Java Edition account, and an internet connection.
+> **You need:** Windows 10 or 11, or macOS 13 or later; a Minecraft Java Edition account; and an internet connection.
 > Built for **Minecraft 1.21.11**.
 
 ---
